@@ -1,5 +1,13 @@
-## Practising Git commands
+### Practising Git commands
 
-## 1. git init which means connect to repository 
-## the U means file not tracking the repo info and committ
-## the A means that the file track the repo info and committ.
+
+## git 
+## git init - connect repo
+## git add README.md
+## git status
+## git commit -m (for first commit)
+## git branch -M (for re-name to make it main branch)
+## git remote add origin https://github.com/0011Ashwin/Practice-.git (giving remote access)
+
+## git remote -v (push and fetch)
+
